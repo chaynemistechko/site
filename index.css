@@ -1,0 +1,28 @@
+
+body {
+  
+}
+
+div.row {
+  
+}
+
+div[class^=col], div.w-50 {
+  
+  text-align:center;
+}
+
+.main-wrapper {
+  height: 85vh;  
+}
+.main-row-mm{
+
+}
+
+.section {
+  height: 100%;  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
